@@ -1,0 +1,12 @@
+{
+    "cad_source_dir": "../../7000模块正面CAD",
+    "dxf_cache_dir": "cad_cache_dxf",
+    "output_dir": "cad_output",
+    "oda_converter_path": "../../ODAExtract/ODAFileConverter.exe",
+    "modules_per_row": 16,
+    "module_gap_mm": 7.5,
+    "row_gap_mm": 40,
+    "margin_mm": 40,
+    "dwg_version": "ACAD2018",
+    "keep_dxf": true
+}
